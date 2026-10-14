@@ -1,0 +1,2 @@
+openai>=1.0,<2.0   # optional — only imported lazily if OPENAI_API_KEY is set
+pytest>=7.0
